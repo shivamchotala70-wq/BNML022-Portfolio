@@ -1,0 +1,162 @@
+{
+    "slides": [
+      {
+        "badge": "BREAKING",
+        "title": "Global Climate Summit Begins",
+        "desc": "World leaders gather to discuss climate action and renewable energy goals.",
+        "time": "2 hours ago",
+        "image": "🌍 Climate Summit"
+      },
+      {
+        "badge": "SPORTS",
+        "title": "India Wins Cricket World Cup!",
+        "desc": "Historic victory as India lifts the trophy after thrilling final match.",
+        "time": "5 hours ago",
+        "image": "🏏 World Champions"
+      },
+      {
+        "badge": "TECH",
+        "title": "India Launches AI Mission",
+        "desc": "Government approves ₹10,000 crore for artificial intelligence ecosystem.",
+        "time": "3 hours ago",
+        "image": "🤖 AI Revolution"
+      }
+    ],
+  
+    "newsData": {
+      "home": [
+        {
+          "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+          "title": "📰 Global Economic Summit 2026",
+          "summary": "World leaders gather to discuss economic recovery and sustainable growth strategies.",
+          "fullStory": "The Global Economic Summit 2026 brought together finance ministers, central bank governors, and industry leaders from over 50 countries. Key discussions focused on post-pandemic recovery, digital currency adoption, and climate-resilient investments. Indian Finance Minister announced a $100 billion green infrastructure fund. The summit concluded with a joint declaration to reduce trade barriers and promote inclusive growth. Experts believe these measures will boost global GDP by 3.5% over the next two years.",
+          "author": "Anjali Sharma",
+          "date": "March 15, 2026",
+          "readTime": "5 min read"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e",
+          "title": "🌧️ Climate Change Impact Report",
+          "summary": "New study reveals accelerating climate effects across continents.",
+          "fullStory": "According to the IPCC's latest report released today, global temperatures are rising faster than previously projected. The study highlights urgent need for carbon reduction strategies, with India emerging as a leader in renewable energy adoption. The report analyzed data from 234 scientific institutions worldwide, concluding that immediate action could still limit warming to 1.5°C. Key recommendations include phasing out coal by 2040, investing in nature-based solutions, and implementing carbon pricing mechanisms across G20 nations.",
+          "author": "Vikram Mehta",
+          "date": "March 14, 2026",
+          "readTime": "7 min read"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a",
+          "title": "🎓 Digital Education Revolution",
+          "summary": "Government launches AI-powered learning platform for 50 million students.",
+          "fullStory": "The Ministry of Education unveiled 'BharatShiksha 2.0', an AI-driven personalized learning platform available in 22 languages. The platform uses adaptive algorithms to identify student weaknesses and provide customized content. Over 50,000 schools will be connected via high-speed broadband. Education experts call it 'the most ambitious digital education initiative in Asia'. The platform includes virtual labs, career counseling, and real-time doubt resolution. Initial pilot programs showed a 40% improvement in learning outcomes.",
+          "author": "Priya Nair",
+          "date": "March 13, 2026",
+          "readTime": "6 min read"
+        }
+      ],
+  
+      "india": [
+        {
+          "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+          "title": "🏗️ India's Infrastructure Boom",
+          "summary": "Government announces 8 new expressways and 12 metro projects.",
+          "fullStory": "Union Minister for Road Transport unveiled the 'Bharat Connectivity Mission' worth ₹15 lakh crore. The projects include the Delhi-Mumbai Expressway extension, Chennai-Bengaluru Industrial Corridor, and metro expansions in 12 tier-2 cities. The initiative aims to create 5 million jobs and reduce logistics costs from 14% to 8% of GDP. Construction will utilize green technologies and recycled materials. Environmental impact assessments have been completed for all projects, with completion targets set for 2030.",
+          "author": "Rajesh Kumar",
+          "date": "March 12, 2026",
+          "readTime": "4 min read"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1597047084897-51e81819a499",
+          "title": "📱 India's Digital Payment Record",
+          "summary": "UPI transactions cross 15 billion mark in February 2026.",
+          "fullStory": "NPCI data reveals unprecedented growth in digital payments, with UPI recording 15.2 billion transactions worth ₹22 lakh crore. Rural adoption grew by 65% year-on-year, driven by feature phone-based UPI solutions. The government's 'Digital Payment Incentive Scheme' has onboarded 50 million new users. International expansion continues with Nepal, Bhutan, and France adopting UPI. Cybersecurity measures have been strengthened with AI-based fraud detection systems handling 99.5% of suspicious transactions.",
+          "author": "Sneha Gupta",
+          "date": "March 11, 2026",
+          "readTime": "5 min read"
+        }
+      ],
+  
+      "world": [
+        {
+          "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b",
+          "title": "🌍 UN Climate Agreement",
+          "summary": "193 nations sign historic biodiversity and climate treaty.",
+          "fullStory": "The 'Earth Resilience Accord' signed at UN headquarters commits nations to protect 30% of land and oceans by 2030. The treaty includes legally binding targets for reducing plastic pollution, restoring degraded ecosystems, and transitioning to renewable energy. Developed nations pledged $100 billion annually for climate adaptation in developing countries. China and the US agreed to restart bilateral climate working groups. Environmental groups hailed this as 'the most significant environmental agreement since the Paris Accord'.",
+          "author": "Emma Watson",
+          "date": "March 10, 2026",
+          "readTime": "8 min read"
+        }
+      ],
+  
+      "sports": [
+        {
+          "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
+          "title": "🏏 India Wins Cricket World Cup",
+          "summary": "Dramatic final victory against Australia in front of 90,000 fans.",
+          "fullStory": "In a nail-biting final at Ahmedabad's Narendra Modi Stadium, India defeated Australia by 4 wickets. Chasing 280, captain Rohit Sharma scored a magnificent 124* off 98 balls. The win marks India's third World Cup title. Bowlers Jasprit Bumrah and Mohammed Shami took 3 wickets each earlier to restrict Australia. Prime Minister congratulated the team, calling it 'the greatest comeback in cricket history'. The victory parade drew millions across Mumbai. Players received ₹50 crore prize money from BCCI.",
+          "author": "Rohan Gavaskar",
+          "date": "March 9, 2026",
+          "readTime": "6 min read"
+        }
+      ],
+  
+      "business": [
+        {
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+          "title": "📊 Sensex Hits 85,000",
+          "summary": "Historic rally driven by FII inflows and strong GDP data.",
+          "fullStory": "Benchmark indices touched all-time highs as foreign institutional investors pumped ₹25,000 crore in March alone. Q3 GDP growth at 8.4% surprised markets positively. Banking, IT, and auto sectors led the rally. RBI Governor expressed confidence in India's growth story, projecting 7.5% growth for FY27. Global rating agencies upgraded India's outlook to 'positive'. Retail participation hit record levels with 10 crore unique Demat accounts. Analysts predict further upside with budget expectations.",
+          "author": "Sunil Shetty",
+          "date": "March 8, 2026",
+          "readTime": "4 min read"
+        }
+      ],
+  
+      "technology": [
+        {
+          "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+          "title": "🤖 India's AI Mission Launch",
+          "summary": "Government approves ₹10,000 crore for AI research and computing infrastructure.",
+          "fullStory": "The IndiaAI Mission will establish three AI Centers of Excellence, a high-performance computing facility with 10,000 GPUs, and AI research grants for 500 startups. The mission aims to develop indigenous AI models for healthcare, agriculture, and education. Partnerships with NVIDIA, Google, and Microsoft will provide training for 1 million developers. Ethical AI frameworks will be developed by IITs and IIITs. The initiative is expected to add $500 billion to India's economy by 2030.",
+          "author": "Arjun Reddy",
+          "date": "March 7, 2026",
+          "readTime": "6 min read"
+        }
+      ],
+  
+      "entertainment": [
+        {
+          "image": "https://images.unsplash.com/photo-1598890923040-3a5f6a7f3c52",
+          "title": "🎬 Indian Cinema Goes Global",
+          "summary": "Three Indian films nominated for Oscars 2026.",
+          "fullStory": "RRR director S.S. Rajamouli's new epic, along with two independent films, received Academy Award nominations in Best International Feature and Best Original Score categories. Indian films grossed $2 billion internationally in 2025, a 40% increase. Streaming platforms are investing heavily in Indian content. The government announced a film tourism incentive to promote shooting locations. Pan-Indian releases are now common, with films dubbed in 8+ languages for global audiences.",
+          "author": "Kavita Singh",
+          "date": "March 6, 2026",
+          "readTime": "5 min read"
+        }
+      ]
+    },
+  
+    "trendingTopics": {
+      "default": [
+        "Market reaches all-time high",
+        "India wins cricket series",
+        "AI technology trends 2026",
+        "Electric vehicle growth",
+        "Global summit updates"
+      ],
+      "india": [
+        "🚀 Gati Shakti Projects",
+        "🏏 IPL Auction Updates",
+        "🌾 MSP Hike Announcement",
+        "📱 Digital Rupee Launch",
+        "🛕 Heritage Tourism Boost"
+      ],
+      "sports": [
+        "⚡ ICC Rankings",
+        "🏆 World Cup Final Highlights",
+        "🏀 Pro League Records",
+        "🎾 Grand Slam Results",
+        "🏏 India vs England Series"
+      ]
+    }
+  }
