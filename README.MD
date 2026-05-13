@@ -3,6 +3,7 @@ his document provides a complete guide to creating a functional news website pro
 Author: Shivam Chotala
 Enrollment Number: 2352097312
 Project Repository: GitHub Portfolio
+Descrpition url ;- https://github.com/shivamchotala70-wq/BNML022-
 
 📋 Development Process
 Phase 1: Planning (1 hour)
